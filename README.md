@@ -16,29 +16,29 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Cyril Emmanuel, a passionate Backend Python Developer.
 **👨‍💻 About Me:**
 
-Python enthusiast specializing in backend development.
-Excited about tackling complex challenges and crafting elegant solutions.
+- Python enthusiast specializing in backend development.
+- Excited about tackling complex challenges and crafting elegant solutions.
 
 **👯 Open to Collaboration:**
 
-Actively job seeking.
-Eager to contribute my skills to innovative endeavors.
+- Actively job seeking.
+- Eager to contribute my skills to innovative endeavors.
 
 **💬 Expertise:**
 
-Programming languages: Python, Javascript
-Frameworks: Django, Flask, FastApi, NodeJs
-Database: No-sql and SQL
+- Programming languages: Python, Javascript
+- Frameworks: Django, Flask, FastApi, NodeJs
+- Database: No-sql and SQL
 
 **📫 Get in Touch:**
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/cyrilmyles/) and share our professional journeys.
-Follow me on [Twitter](https://twitter.com/CyrilEm26118130) for tech updates and occasional musings.
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/cyrilmyles/) and share our professional journeys.
+- Follow me on [Twitter](https://twitter.com/CyrilEm26118130) for tech updates and occasional musings.
 
 **😄 Fun Facts:**
 
-Pronouns😂: He/Him 
-Asides coding, I enjoy playing chess, Call Of Duty, and hitting the basketball court.
+- Pronouns😂: He/Him 
+- Asides coding, I enjoy playing chess, Call Of Duty, and hitting the basketball court.
 
 🚀 Let's Build Something Amazing Together!
 
