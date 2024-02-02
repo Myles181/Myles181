@@ -18,19 +18,23 @@ Here are some ideas to get you started:
 
 Python enthusiast specializing in backend development.
 Excited about tackling complex challenges and crafting elegant solutions.
+
 **👯 Open to Collaboration:**
 
 Actively job seeking.
 Eager to contribute my skills to innovative endeavors.
+
 **💬 Expertise:**
 
 Programming languages: Python, Javascript
 Frameworks: Django, Flask, FastApi, NodeJs
 Database: No-sql and SQL
+
 **📫 Get in Touch:**
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/cyrilmyles/) and share our professional journeys.
 Follow me on [Twitter](https://twitter.com/CyrilEm26118130) for tech updates and occasional musings.
+
 **😄 Fun Facts:**
 
 Pronouns😂: He/Him 
@@ -38,5 +42,4 @@ Asides coding, I enjoy playing chess, Call Of Duty, and hitting the basketball c
 
 🚀 Let's Build Something Amazing Together!
 
-Reach out if you're looking for a dedicated developer to bring your ideas to life.
-Feel free to use and modify this template for your GitHub README to showcase your skills and personality effectively!
+Reach out if you're looking for a dedicated developer to bring your business ideas to life.
