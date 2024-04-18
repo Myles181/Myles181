@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Cyril Emmanuel, a passionate Backend Python Developer.
 **👨‍💻 About Me:**
 
-- Python enthusiast specializing in backend development.
-- Excited about tackling complex challenges and crafting elegant solutions.
+- Specializing in backend development (Python).
+- Web 3.0 enthusiast.
+- Excited about learning new things, tackling complex challenges and crafting elegant solutions.
 
 **👯 Open to Collaboration:**
 
@@ -32,8 +33,8 @@ Here are some ideas to get you started:
 
 **📫 Get in Touch:**
 
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/cyrilmyles/) and share our professional journeys.
-- Follow me on [Twitter](https://twitter.com/CyrilEm26118130) for tech updates and occasional musings.
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/cyrilmyles) and share our professional journeys.
+- Follow me on [Twitter](https://twitter.com/CyrilEm26118130) for tech contents.
 
 **😄 Fun Facts:**
 
