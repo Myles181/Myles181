@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 **📫 Get in Touch:**
 
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/cyrilmyles) and share our professional journeys.
-- Follow me on [Twitter](https://twitter.com/CyrilEm26118130) for tech contents.
+- Follow me on [Twitter](https://twitter.com/Cyril_myles1) for tech contents.
 
 **😄 Fun Facts:**
 
